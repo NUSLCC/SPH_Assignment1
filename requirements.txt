@@ -7,15 +7,16 @@ deap==1.4.1
 debugpy @ file:///croot/debugpy_1690905042057/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 dill==0.3.8
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
 fonttools==4.49.0
-importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1703269254275/work
+imbalanced-learn==0.12.0
 importlib_resources==6.1.2
 ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1708996548741/work
-ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1683289033986/work
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1680185408135/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
 joblib==1.3.2
-jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1654730843242/work
 jupyter_core @ file:///home/conda/feedstock_root/build_artifacts/jupyter_core_1704727043329/work
 kiwisolver==1.4.5
 matplotlib==3.7.5
@@ -31,11 +32,11 @@ pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602
 pillow==10.2.0
 platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1706713388748/work
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1702399386289/work
-psutil @ file:///home/conda/feedstock_root/build_artifacts/psutil_1705722395397/work
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
-pyparsing==3.1.1
+pyparsing==3.1.2
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
 pytz==2024.1
 pyzmq @ file:///croot/pyzmq_1705605076900/work
@@ -45,9 +46,9 @@ six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 sklearn-genetic==0.6.0
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 threadpoolctl==3.3.0
-tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1708363076094/work
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1648827257044/work
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1704212992681/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1708904622550/work
 tzdata==2024.1
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
+zipp==3.17.0
